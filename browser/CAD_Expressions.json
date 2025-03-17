@@ -1,0 +1,688 @@
+{
+  "firefox-container-7": [
+    {
+      "expression": "*.accounts.google.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "S1ivX0hrK"
+    },
+    {
+      "expression": "*.chatgpt.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "CuPdOgaPiI"
+    },
+    {
+      "expression": "*.gds.google.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ywFF1FhnW"
+    },
+    {
+      "expression": "*.google.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Tx6cyvFF74"
+    },
+    {
+      "expression": "*.openai.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "0WoeFfwKk"
+    },
+    {
+      "expression": "*.youtube.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "RXcGMJN9s"
+    },
+    {
+      "expression": "accounts.google.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "s9LbgEG57"
+    },
+    {
+      "expression": "chatgpt.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "3wd6MEsVC"
+    },
+    {
+      "expression": "gds.google.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "EcT2m6noMW"
+    },
+    {
+      "expression": "openai.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "lDU0C2mt0"
+    },
+    {
+      "expression": "youtube.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-7",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "qeB_AbSuoW"
+    }
+  ],
+  "firefox-container-6": [
+    {
+      "expression": "*.account.proton.me",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "k4hQrrMWpp"
+    },
+    {
+      "expression": "*.codeberg.org",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "S-Kgkyuu-F"
+    },
+    {
+      "expression": "*.codevita.tcsapps.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "mjeswyY5pM"
+    },
+    {
+      "expression": "*.github.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "gZHw_UMQz"
+    },
+    {
+      "expression": "*.leetcode.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "UVbN48quka"
+    },
+    {
+      "expression": "*.mail.proton.me",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "6Fv4fbecsD"
+    },
+    {
+      "expression": "*.proton.me",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "QYdlccTxP"
+    },
+    {
+      "expression": "*.tcsapps.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "OWPBsboh-"
+    },
+    {
+      "expression": "account.proton.me",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "1GgqPuqhT"
+    },
+    {
+      "expression": "codeberg.org",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "YQsyH-CT-"
+    },
+    {
+      "expression": "codevita.tcsapps.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "0tJEGpXdh-"
+    },
+    {
+      "expression": "github.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "GnUNZbr2D-"
+    },
+    {
+      "expression": "leetcode.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "1R-kQpzgV"
+    },
+    {
+      "expression": "mail.proton.me",
+      "listType": "WHITE",
+      "storeId": "firefox-container-6",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "cdyGFMRCz"
+    }
+  ],
+  "firefox-container-1": [
+    {
+      "expression": "*.ap.www.namecheap.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "eOl6WSY3TN"
+    },
+    {
+      "expression": "*.bitwarden.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "knIy4sw05"
+    },
+    {
+      "expression": "*.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "D-NJWjWoYE"
+    },
+    {
+      "expression": "*.cloudflare.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "2r0QNTSx_"
+    },
+    {
+      "expression": "*.dash.cloudflare.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "S2x5hhp5O"
+    },
+    {
+      "expression": "*.digilocker.gov.in",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "XGiqOWfO7n"
+    },
+    {
+      "expression": "*.dockge.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "U9Oco60MK9"
+    },
+    {
+      "expression": "*.f95zone.to",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "XqDfTydvw"
+    },
+    {
+      "expression": "*.immich.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "WvQ06FJn6d"
+    },
+    {
+      "expression": "*.instagram.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ShQxSD_xgE"
+    },
+    {
+      "expression": "*.namecheap.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "uWZD86Qb9"
+    },
+    {
+      "expression": "*.vault.bitwarden.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "bwNE6IbZAF"
+    },
+    {
+      "expression": "*.vaultwarden.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "XtPqU48Qi"
+    },
+    {
+      "expression": "*.web.whatsapp.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "zoL_JvRL58"
+    },
+    {
+      "expression": "*.whatsapp.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "CRaTO-hYZ"
+    },
+    {
+      "expression": "ap.www.namecheap.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Tunr1c3Fh"
+    },
+    {
+      "expression": "casiopea.site",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "kKfGCBYoN"
+    },
+    {
+      "expression": "dash.cloudflare.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "wUNZNBX4D_"
+    },
+    {
+      "expression": "digilocker.gov.in",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "IQw4BeD20"
+    },
+    {
+      "expression": "dockge.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ntfC3kLMT"
+    },
+    {
+      "expression": "f95zone.to",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "apPXQ3Hob"
+    },
+    {
+      "expression": "immich.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Mg2SkVNxA"
+    },
+    {
+      "expression": "instagram.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "C6T_ZDcWE"
+    },
+    {
+      "expression": "namecheap.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "2EgCPunlh"
+    },
+    {
+      "expression": "vault.bitwarden.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "KZuZfae7YP"
+    },
+    {
+      "expression": "vaultwarden.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Kv4tpQJtm"
+    },
+    {
+      "expression": "web.whatsapp.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-1",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "NfBvY9LPm"
+    }
+  ],
+  "firefox-container-3": [
+    {
+      "expression": "*.epicgames.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "BohFAb1-n"
+    },
+    {
+      "expression": "*.flipkart.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "L-zfTgSpQ"
+    },
+    {
+      "expression": "*.forums.playdeadlock.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "QAYv5A0PI"
+    },
+    {
+      "expression": "*.isthereanydeal.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "c2mAG0HZZl"
+    },
+    {
+      "expression": "*.kite.zerodha.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ACNvVra7VM"
+    },
+    {
+      "expression": "*.playdeadlock.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "G-yqSXu1t"
+    },
+    {
+      "expression": "*.protondb.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "W14-2w8rN"
+    },
+    {
+      "expression": "*.steamcommunity.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "vYb_7In7FG"
+    },
+    {
+      "expression": "*.steampowered.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "c4XWXlrac"
+    },
+    {
+      "expression": "*.store.steampowered.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "lyeYrReLAF"
+    },
+    {
+      "expression": "*.zerodha.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "4bzyZKLGz"
+    },
+    {
+      "expression": "epicgames.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "N1Zseb1a4"
+    },
+    {
+      "expression": "flipkart.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "dJXcyesyB"
+    },
+    {
+      "expression": "forums.playdeadlock.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Ficxi59sG1"
+    },
+    {
+      "expression": "isthereanydeal.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "xyVLluZr2"
+    },
+    {
+      "expression": "kite.zerodha.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "xJATgScjD"
+    },
+    {
+      "expression": "protondb.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "pP60UimSo"
+    },
+    {
+      "expression": "steamcommunity.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "bi9AAEASx"
+    },
+    {
+      "expression": "store.steampowered.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-3",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "EtGNCIM2mH"
+    }
+  ],
+  "default": [
+    {
+      "expression": "*.accounts.firefox.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Fs116kEjhU"
+    },
+    {
+      "expression": "*.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "O8iEP4Our"
+    },
+    {
+      "expression": "*.firefox.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "LcMq1o4YD"
+    },
+    {
+      "expression": "*.localhost",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "irl0HW461"
+    },
+    {
+      "expression": "*.memos.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "yRxWCyoSE8"
+    },
+    {
+      "expression": "accounts.firefox.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "SRi9iVZ2gi"
+    },
+    {
+      "expression": "localhost",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "57XoO5313"
+    },
+    {
+      "expression": "memos.casiopea.site",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "4VF96Tpdc"
+    }
+  ],
+  "firefox-container-8": [
+    {
+      "expression": "*.nexusmods.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-8",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "J14VmY0Tk"
+    },
+    {
+      "expression": "*.users.nexusmods.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-8",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "fLU-fWKGh"
+    },
+    {
+      "expression": "users.nexusmods.com",
+      "listType": "WHITE",
+      "storeId": "firefox-container-8",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "tXeLoZZS3h"
+    }
+  ],
+  "firefox-private": [
+    {
+      "expression": "*.localhost",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "qE8Fo6C6j0"
+    },
+    {
+      "expression": "localhost",
+      "listType": "WHITE",
+      "storeId": "firefox-private",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "rJmwtujXX"
+    }
+  ]
+}

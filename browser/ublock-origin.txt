@@ -1,6 +1,6 @@
 {
-  "timeStamp": 1734307743051,
-  "version": "1.61.2",
+  "timeStamp": 1742233349539,
+  "version": "1.62.0",
   "userSettings": {
     "uiAccentCustom": true,
     "uiAccentCustom0": "#bf92f9",
