@@ -1,0 +1,23 @@
+theme = catppuccin-mocha
+font-family = JetBrains Mono Nerd Font
+font-synthetic-style = true
+font-size = 11
+font-style = extrabold
+cursor-click-to-move = true
+window-width = 100
+window-height = 26
+gtk-single-instance = true
+adw-toolbar-style = flat
+window-decoration = true
+gtk-titlebar = true
+window-padding-x = 10
+window-padding-y = 10
+gtk-tabs-location = left
+gtk-adwaita = true
+desktop-notifications = true
+title = " "
+window-vsync = true
+cursor-style = bar
+
+keybind = shift+page_up=scroll_page_up
+keybind = shift+page_down=scroll_page_down

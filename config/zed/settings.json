@@ -1,0 +1,33 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+{
+  "icon_theme": "Catppuccin Mocha",
+  "features": {
+    "edit_prediction_provider": "none"
+  },
+  "assistant": {
+    "default_model": {
+      "provider": "ollama",
+      "model": "deepseek-coder-v2:latest"
+    },
+    "version": "2"
+  },
+  "base_keymap": "VSCode",
+  "telemetry": {
+    "diagnostics": true,
+    "metrics": false
+  },
+  "ui_font_size": 18,
+  "buffer_font_size": 16,
+  "theme": {
+    "mode": "dark",
+    "light": "Catppuccin Latte",
+    "dark": "Catppuccin Mocha"
+  }
+}
