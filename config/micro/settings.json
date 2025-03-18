@@ -1,0 +1,14 @@
+{
+    "colorscheme": "catppuccin-mocha",
+    "diffgutter": true,
+    "initlua": true,
+    "mkparents": true,
+    "pluginchannels": [
+        "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json"
+    ],
+    "pluginrepos": [],
+    "saveundo": true,
+    "scrollbar": true,
+    "tabhighlight": true,
+    "tabreverse": false
+}
