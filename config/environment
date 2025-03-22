@@ -1,1 +1,17 @@
-/etc/environment
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+QT_QPA_PLATFORMTHEME=gnome
+QT_QPA_PLATFORMTHEME=gnome
+QT_QPA_PLATFORMTHEME=gnome
+__GLX_VENDOR_LIBRARY_NAME=nvidia
+GBM_BACKEND=nvidia-drm
+#PROTON_HIDE_NVIDIA_GPU=1
+PROTON_ENABLE_WAYLAND=1
+DISABLE_LAYER_AMD_SWITCHABLE_GRAPHICS_1
+__GL_THREADED_OPTIMIZATION=1
+__GL_SHADER_DISK_CACHE=1
+# GTK_USE_PORTAL=1
+GDK_DEBUG=portals
